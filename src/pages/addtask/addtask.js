@@ -9,7 +9,7 @@ import {
   FormLabel,
   FormWrapper,
 } from "../addtask/addtask.style";
-import logo from "../../assets/images/logo.png";
+import logo from "_assets/images/logo.png";
 import { Button } from "_components/atoms";
 
 const firebaseApp = initializeApp({
